@@ -2,7 +2,7 @@
 Solver for Coloring Problem
 
 
-#This is a simple Coloring Problem Solver. 
+#This is a simple Coloring Problem Solver for one of the Coursera's assignment projects in "Discrete Optimization Course". . 
 
 Data folder contains different datasets of diverse difficulty. 
 
