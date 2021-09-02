@@ -6,7 +6,7 @@ Solver for Coloring Problem
 
 Data folder contains different datasets of diverse difficulty. 
 
-Open the coloringfinal.py and set the DATA file in (file_location) variable to choose desired dataset.
+Open the coloringfinal.py and set the DATA file in (file_location) variable on line 131 to choose desired dataset.
 
 Please note:
 Big datasets may require solid computational time.
