@@ -1,5 +1,5 @@
-# coloring_prob_solver
-Solver for Coloring Problem
+# Coloring Problem Solver
+Solver for Coursera Discrete Optimization Assignment
 
 
 #This is a simple Coloring Problem Solver for one of the Coursera's assignment projects in "Discrete Optimization Course". . 
