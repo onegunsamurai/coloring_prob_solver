@@ -128,7 +128,7 @@ class VarArraySolutionPrinter(cp_model.CpSolverSolutionCallback):
 
 
 
-file_location = r"C:\Users\soshr\Desktop\Проекты\Optimization\Coloring\coloring\data\gc_250_7"
+file_location = r"/data/"
 
 with open(file_location, 'r') as input_data_file:
     input_data = input_data_file.read()
